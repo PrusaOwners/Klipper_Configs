@@ -45,7 +45,7 @@ and I believe in you :).
 [update_manager prusa]
 type: git_repo
 origin: https://github.com/PrusaOwners/Klipper_Configs.git
-path: ~/klipper_config/config
+path: ~/klipper_config
 primary_branch: main
 is_system_service: False
 ```
